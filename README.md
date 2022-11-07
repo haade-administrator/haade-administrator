@@ -1,9 +1,9 @@
 <h1 align="center">SALUT 👋, Je suis Nicolas Rodriguez</h1>
-<h3 align="center">Passionné par la domotique</h3>
+<h3 align="center">Passionné par la domotique et la nouvelle technologie</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haade-administrator&label=Profile%20views&color=0e75b6&style=flat" alt="haade-administrator" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connecte toi avec Haade</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/haade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="haade" height="30" width="40" /></a>
 </p>
